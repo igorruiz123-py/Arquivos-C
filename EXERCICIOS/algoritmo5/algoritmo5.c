@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-Fac¸a um programa que receba do usuario um arquivo texto e mostre na tela quantas ´
+Fac¸a um programa que recebaum arquivo texto e mostre na tela quantas ´
 linhas esse arquivo possui.
 */
 
