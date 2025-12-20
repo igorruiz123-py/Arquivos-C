@@ -1,0 +1,10 @@
+Arroz
+20
+Pão
+2
+Leite
+5
+Biscoito
+10
+Carne
+50
